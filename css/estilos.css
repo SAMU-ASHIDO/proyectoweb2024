@@ -1,0 +1,19 @@
+body{
+    background: lightblue;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: "comic sans ms";
+    font-weight: bolder;
+    font-style: italic;
+    letter-spacing: 5px;
+    text-align: center;
+    text-shadow: 0 0 0 3em gold;
+}
+
+.foto{
+    text-align: center;
+    margin-top: 200px;
+}
